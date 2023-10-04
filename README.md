@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React, TypeScript, and JavaScript through courses on platforms like 4Geeks Academy, Scrimba, and Mosh**
 
+-aqui van las que ya se (reac javascript)
+
 - 👯 I’m looking to collaborate on **Study Management App**
 
 - 📫 How to reach me **anggie.alava.12@gmail.com**
@@ -13,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anggiealava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anggiealava/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anggiealava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anggiealava/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
