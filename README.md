@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Puppy Tail](https://github.com/4GeeksAcademy/puppy-tail)
 
-- 🌱 I’m currently learning **React, TypeScript, and JavaScript through courses on platforms like 4Geeks Academy, Scrimba, and Mosh**
+- 🌱 I’m currently learning **TypeScript through courses on platforms like 4Geeks Academy, Scrimba, and Mosh**
 
--aqui van las que ya se (reac javascript)
+- 💻 I already have experience with **JavaScript and React** through previous courses and projects. 🚀
 
-- 👯 I’m looking to collaborate on **Study Management App**
+- 👯 I'm looking to collaborate on projects related to **study applications that involve Python and React** 📚
 
 - 📫 How to reach me **anggie.alava.12@gmail.com**
 
