@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anggie Alava</h1>
-<h3 align="center">A passionate Full Stack Web developer from Ecuador.</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Ecuador.</h3>
 
 - 🔭 I’m currently working on [Puppy Tail](https://github.com/4GeeksAcademy/puppy-tail)
 
