@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a Full Stack Developer who loves React
+
 
 * 🌍  I'm based in Ecuador
 * ✉️  You can contact me at [anggie.alava.12@gmail.com](mailto:anggie.alava.12@gmail.com)
