@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-
+I am a Full Stack Developer who loves React
 
 * 🌍  I'm based in Ecuador
 * ✉️  You can contact me at [anggie.alava.12@gmail.com](mailto:anggie.alava.12@gmail.com)
@@ -14,9 +14,7 @@ Full Stack Developer
 * ⚡  I am Iron Man, tell everyone!
 
 <a href="https://www.github.com/AngelesGit" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AngelesGit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AnggieAlava" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AnggieAlava?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/AngelesGit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
