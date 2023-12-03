@@ -8,7 +8,7 @@ I am a Full Stack Developer who loves React
 
 * 🌍  I'm based in Ecuador
 * ✉️  You can contact me at [anggie.alava.12@gmail.com](mailto:anggie.alava.12@gmail.com)
-* 🚀  You can check my projects here  <a href="https://angelesgit.github.io/angelesgit-web/" target="_blank">Portfolio</a>
+* 🚀  You can check my projects here  <a href="https://angelesgit.github.io/angelesgit-web/"  target="_blank" rel="noreferrer">Portfolio</a>
 * 🧠  I'm learning TypeScript, Next & Firebase
 * 🤝  I'm open to collaborating on projects related to education that involve the use of Python and JavaScript
 * ⚡  I am Iron Man, tell everyone!
