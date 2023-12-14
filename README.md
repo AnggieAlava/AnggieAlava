@@ -4,7 +4,7 @@
 
 I am a Full Stack Developer who loves React
 
-* 🌍  I'm based in Ecuador
+* 🌍  I'm based in Ecuador 
 * ✉️  You can contact me at [anggie@angeles.rocks](mailto:anggie@angeles.rocks)
 * 🚀  You can check my projects [Portfolio](https://portfolio.angeles.rocks/)
 * 🧠  I'm learning TypeScript, Parcel & Docker
