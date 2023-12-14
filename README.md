@@ -11,7 +11,7 @@ I am a Full Stack Developer who loves React
 * 🤝  I'm open to collaborating on projects related to education that involve the use of Python and JavaScript
 * ⚡  I am Iron Man, tell everyone!
 
-[![GitHub followers](https://img.shields.io/github/followers/AngelesGit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/AngelesGit)
+[![GitHub followers](https://img.shields.io/github/followers/AngelesRocks?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/AngelesRocks)
 
 ### Skills
 
