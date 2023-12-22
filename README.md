@@ -35,9 +35,7 @@ I am a Full Stack Developer who loves React
 <p align="left">
   <a href="https://www.github.com/AngelesRocks" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/anggiealava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
- <a href="https://www.tiktok.com/@angelesgit" target="_blank" rel="noreferrer">
-  <i class="fa-brands fa-tiktok" width="32" height="32"></i>
-</a>
+ <a href="https://www.tiktok.com/@angelesgit" target="_blank" rel="noreferrer"></a>
   <a href="https://www.instagram.com/angeles.rocks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.x.com/angelsrockss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
