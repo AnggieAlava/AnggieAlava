@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-I am a Full Stack Developer who loves React
+I am a Full Stack Developer who loves JavaScript!
 
 * 🌍  I'm based in Ecuador 
 * ✉️  You can contact me at [anggie@angeles.rocks](mailto:anggie@angeles.rocks)
@@ -11,7 +11,6 @@ I am a Full Stack Developer who loves React
 * 🤝  I'm open to collaborating on projects related to education that involve the use of Python and JavaScript
 * ⚡  I am Iron Man, tell everyone!
 
-<!--[![GitHub followers](https://img.shields.io/github/followers/AngelesRocks?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/AngelesRocks) -->
 
 ### Skills
 
@@ -49,5 +48,9 @@ I am a Full Stack Developer who loves React
 
 <div width="100%" align="center">
   <a href="https://github.com/AngelesRocks/puppy_tail" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AngelesRocks&repo=puppy_tail&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<!--   <a href="https://github.com/AngelesRocks/larry-virtual-assistant" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AngelesRocks&repo=larry-virtual-assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> -->
-</div><br /><br /><br /><br /><br /><br /><br />
+</div>
+<div width="100%" align="center">
+  <a href=https://github.com/AngelesRocks/sudoku" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AngelesRocks&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
