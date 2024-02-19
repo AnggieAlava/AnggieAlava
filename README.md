@@ -32,25 +32,25 @@ I am a Full Stack Developer who loves JavaScript!
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/AngelesRocks" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" target="_blank" /></a>
+  <a href="https://www.github.com/AnggieAlava" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/anggiealava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <!--   <a href="https://www.instagram.com/angels.rocks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
-  <a href="https://www.x.com/angelsroocks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.x.com/anggiealava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
 
 **My GitHub Stats**
 
-<a href="https://github.com/AngelesRocks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelesRocks&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AnggieAlava" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggieAlava&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 **Top Repositories**
 
 <div width="100%" align="center">
-  <a href="https://github.com/AngelesRocks/puppy_tail" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AngelesRocks&repo=puppy_tail&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/AnggieAlava/puppy_tail" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnggieAlava&repo=puppy_tail&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 <div width="100%" align="center">
-  <a href=https://github.com/AngelesRocks/sudoku" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AngelesRocks&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href=https://github.com/AnggieAlava/sudoku" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnggieAlava&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
