@@ -5,7 +5,7 @@
 I am a Full Stack Developer who loves JavaScript!
 
 * 🌍  I'm based in Ecuador 
-* ✉️  You can contact me at [anggie@angeles.rocks](mailto:anggie@angeles.rocks)
+* ✉️  You can contact me at [codewithangels@gmail.com](codewithangels@gmail.com)
 * 🚀  You can check my projects [Portfolio](https://portfolio.angeles.rocks/)
 * 🧠  I'm learning TypeScript & Docker
 * 🤝  I'm open to collaborating on projects related to education that involve the use of Python and JavaScript
