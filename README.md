@@ -35,7 +35,7 @@ I am a Full Stack Developer who loves JavaScript!
   <a href="https://www.github.com/AnggieAlava" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/anggiealava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <!--   <a href="https://www.instagram.com/angels.rocks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
-  <a href="https://www.x.com/anggiealava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<!--   <a href="https://www.x.com/anggiealava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> -->
 </p>
 
 ### Badges
