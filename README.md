@@ -2,14 +2,14 @@
 
 ## Full Stack Developer
 
-I am a Full Stack Developer who loves JavaScript!
+I am a Full Stack Developer who loves IoT!
 
 * 🌍  I'm based in Ecuador 
 * ✉️  You can contact me at [codewithangels@gmail.com](codewithangels@gmail.com)
 * 🚀  You can check my projects [Portfolio](https://portfolio.angeles.rocks/)
-* 🧠  I'm learning TypeScript & Docker
-* 🤝  I'm open to collaborating on projects related to education that involve the use of Python and JavaScript
-* ⚡  I am Iron Man, tell everyone!
+* 🧠  I am currently deepening my IoT knowledge with Arduino and MicroPython.
+* 🤝  I am open to collaborate with StartUps
+* ⚡  I am ambidextrous, interesting, isn't it?
 
 
 ### Skills
