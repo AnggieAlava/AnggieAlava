@@ -7,7 +7,7 @@ I am a Full Stack Developer who loves IoT!
 * 🌍  I'm based in Ecuador 
 * ✉️  You can contact me at [codewithangels@gmail.com](codewithangels@gmail.com)
 * 🚀  You can check my projects [Portfolio](https://portfolio.angeles.rocks/)
-* 🧠  I am currently deepening my IoT knowledge with Arduino and MicroPython.
+* 🧠  I am currently learning MongoDB.
 * 🤝  I am open to collaborate with StartUps
 * ⚡  I am ambidextrous, interesting, isn't it?
 
