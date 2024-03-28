@@ -2,7 +2,7 @@
 
 ## You can access my Portfolio here [Portfolio](https://portfolio.angeles.rocks/)
 
-#### You can contact me at [codewithangels@gmail.com](codewithangels@gmail.com)
+#### You can reach me at [codewithangels@gmail.com](codewithangels@gmail.com)
 
 <h1 align="center"> What I'm good at</h1>
 <p align="center">
