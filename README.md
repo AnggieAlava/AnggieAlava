@@ -11,17 +11,12 @@
   </a>
 </p>
 
-![Anggie's Leetcode stats](https://leetcard.jacoblin.cool/AnggieAlava?border=0&radius=20)
-![Anggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnggieAlava&show_icons=true&theme=panda&hide_border=true)
-
-
-<h3 align="center">Top Repositories</h3>
 <div width="100%" align="center">
-  <a href="https://github.com/AnggieAlava/puppy-tail(https://github.com/AnggieAlava/puppy-tail)" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnggieAlava&repo=puppy-tail&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<h3 align="center" width="100%">Just Breathe Leetcode & GitHub</h3>
+  <a href="https://leetcard.jacoblin.cool/AnggieAlava?border=0&radius=20" align="left"><img align="left" width="45%" src="https://leetcard.jacoblin.cool/AnggieAlava?border=0&radius=20" /></a>
 </div>
 <div width="100%" align="center">
-  <a href=https://github.com/AnggieAlava/sudoku" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnggieAlava&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=AnggieAlava&show_icons=true&theme=panda&hide_border=true" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=AnggieAlava&show_icons=true&theme=panda&hide_border=true" /></a>
 </div>
 
 
-<br /><br /><br /><br /><br /><br /><br />
