@@ -19,4 +19,11 @@
   <a href="https://github-readme-stats.vercel.app/api?username=AnggieAlava&show_icons=true&theme=panda&hide_border=true" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=AnggieAlava&show_icons=true&theme=panda&hide_border=true" /></a>
 </div>
 
+<div align="center" padding="10%"> 
+  <a href="https://skillicons.dev](https://github-readme-stats.vercel.app/api/wakatime?username=AnggieAlava&layout=compact&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnggieAlava&layout=compact&theme=onedark" />
+  </a>
+</div>
+
+
 
