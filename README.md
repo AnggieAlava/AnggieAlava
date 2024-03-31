@@ -32,7 +32,7 @@
 
 <h2 align="center"> What I've been doing this week </h2>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=AnggieAlava&layout=compact&theme=onedark">
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=AnggieAlava">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnggieAlava&layout=compact&theme=onedark" />
   </a>
 </p>
