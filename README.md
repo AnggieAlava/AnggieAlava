@@ -12,12 +12,12 @@
         <img src="https://skillicons.dev/icons?i=git,docker,js,nodejs,express,mongodb,py,fastapi,react,postgres,vitest" />
       </a>
     </p>
-    <h2 align="center">Resiliency 🍀 Leetcode</h2>
+<!--     <h2 align="center">Resiliency 🍀 Leetcode</h2>
     <p align="center">
       <a href="https://leetcard.jacoblin.cool/AnggieAlava?border=0&radius=20">
         <img width="45%" src="https://leetcard.jacoblin.cool/AnggieAlava?border=0&radius=20" />
       </a>
-    </p>
+    </p> -->
   </div>
   
   <div>
