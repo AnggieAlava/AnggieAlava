@@ -21,7 +21,7 @@
   </div>
   
   <div>
-    <h2 align="center">Just breathe Github</h2>
+    <h2 align="center">Just Github for life</h2>
     <p align="center">
       <a href="https://github-readme-stats.vercel.app/api?username=AnggieAlava&show_icons=true&theme=panda&hide_border=true">
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AnggieAlava&show_icons=true&theme=panda&hide_border=true" />
