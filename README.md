@@ -31,7 +31,7 @@
   </div>
 </div>
 
-<h2 align="center"> What I've been doing this week </h2>
+<!--<h2 align="center"> What I've been doing this week </h2>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@anggiealava/4e7a0218-c386-4438-973d-9955b499efcd.png" /></a>
 <!-- <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@anggiealava">
