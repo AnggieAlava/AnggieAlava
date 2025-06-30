@@ -1,6 +1,6 @@
 # Hi I'm Anggie Alava
 
-## You can access my Portfolio here [Portfolio](https://portfolio.angeles.rocks/)
+## You can access my Portfolio
 
 ### You can reach me at [Linkedin](https://www.linkedin.com/in/anggiealava/)  or send me a message here [Mail](codewithangels@gmail.com)
 
